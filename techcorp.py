@@ -78,7 +78,6 @@ plt.axvline(median_value, color='red', linestyle='--', linewidth=2, label=f"Medi
 plt.axvline(mean_value, color='blue', linestyle='--', linewidth=2, label=f"Mean = {mean_value:.2f}")
 plt.legend()
 plt.show()
-plt.savefig('histogram_trial_signups.png')
 
 
 #Task 3: Interpretation (Written Answers)
